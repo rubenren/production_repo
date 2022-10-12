@@ -8,3 +8,5 @@ How to use code:
 4) The results will be stored in result.txt, either it goes up or down
 
  - You can also remove a stock from being tracked by using `python main.py remove --stock [STOCK]`
+ 
+ Note: this project uses git lfs, you need to run `git lfs pull` before the code will work
